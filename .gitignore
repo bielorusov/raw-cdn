@@ -1,0 +1,133 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Xcode — user state
+xcuserdata/
+*.xcuserstate
+
+# Xcode — build products
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.hmap
+
+# Xcode — playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+.build/
+.swiftpm/config/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+
+# Accio
+Dependencies/
+.accio/
+.cursor/plans/*
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code Injection
+iOSInjectionProject/
+
+# Secrets & local env
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.mobileprovision
+AuthKey_*.p8
+secrets/
+Credentials/
+
+# IDE / editors
+.idea/
+*.swp
+*~
+*.bak
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json.example
+
+# Cursor (local agent state)
+.cursor/cache/
+.cursor/debug/
+.cursor/mcp.json
+
+# Elixir / Phoenix
+_build/
+deps/
+*.ez
+.elixir_ls/
+erl_crash.dump
+
+# Node / Vite
+node_modules/
+dist/
+
+# Archives & temp
+*.tmp
+*.temp
+*.log
+logs/
+
+# Unity
+pushcoin-unity/[Ll]ibrary/
+pushcoin-unity/[Tt]emp/
+pushcoin-unity/[Oo]bj/
+pushcoin-unity/[Bb]uild/
+pushcoin-unity/[Bb]uilds/
+pushcoin-unity/[Ll]ogs/
+pushcoin-unity/[Uu]ser[Ss]ettings/
+pushcoin-unity/MemoryCaptures/
+pushcoin-unity/Recordings/
+pushcoin-unity/*.csproj
+pushcoin-unity/*.sln
+pushcoin-unity/.vs/
+
+# Unity UaaL export (regenerated; do not commit)
+pushcoin-ios/UnityExport/**
+!pushcoin-ios/UnityExport/README.md
+!pushcoin-ios/UnityExport/.gitkeep
+
+# Accidental nested export under the Unity project folder
+pushcoin-unity/pushcoin-ios/
+**/Il2CppTempDirArtifacts/
+
+# iOS / Xcode local
+pushcoin-ios/xcuserdata/
+pushcoin-ios/**/xcuserdata/
+pushcoin-ios/**/*.xcuserstate
+pushcoin-ios/DerivedData/
+pushcoin-ios/build/
+pushcoin-ios/Pods/
+
+# Coverage / profiling
+*.gcno
+*.gcda
+coverage/
+*.profraw
+*.profdata

@@ -1,0 +1,10 @@
+https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/coins/AN.png
+https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/coins/BR.png
+https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/coins/EU.png
+https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/coins/FH.png
+https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/coins/FPZH.png
+https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/coins/HG.png
+https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/coins/JSVL.png
+https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/coins/TEC.png
+https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/coins/UTJI.png
+https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/coins/WO.png

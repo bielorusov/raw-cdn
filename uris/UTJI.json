@@ -1,0 +1,16 @@
+{
+  "name": "UTJI",
+  "symbol": "UTJI",
+  "image": "https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/coins/UTJI.png",
+  "description": "",
+  "extensions": {
+    "website": "",
+    "twitter": "",
+    "telegram": ""
+  },
+  "tags": [],
+  "creator": {
+    "name": "ASSISTSHUB WEB3 LAB",
+    "site": "https://web3.assistshub.com"
+  }
+}

@@ -3,7 +3,7 @@
 https://explorer.solana.com/
 
 ## Coins
-
+- [PUSH.png](https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/coins/PUSH.png)
 - [AN.png](https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/coins/AN.png)
 - [BR.png](https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/coins/BR.png)
 - [EU.png](https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/coins/EU.png)
@@ -16,7 +16,7 @@ https://explorer.solana.com/
 - [WO.png](https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/coins/WO.png)
 
 ## URIs
-
+- [PUSH.json](https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/uris/PUSH.json)
 - [AN.json](https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/uris/AN.json)
 - [BR.json](https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/uris/BR.json)
 - [EU.json](https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/uris/EU.json)

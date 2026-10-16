@@ -1,0 +1,14 @@
+{
+  "name": "PUSH COIN",
+  "symbol": "PUSH",
+  "image": "https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/coins/PUSH.png",
+  "description": "Push and Pull coins around the World",
+  "extensions": {
+    "website": "https://pushcoin.me"
+  },
+  "tags": [],
+  "creator": {
+    "name": "PUSHCOIN WEB3 LAB",
+    "site": "https://web3.assistshub.com"
+  }
+}

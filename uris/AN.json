@@ -1,12 +1,12 @@
 {
-  "name": "AN",
-  "symbol": "AN",
+  "name": "UNITY",
+  "symbol": "UNITY",
   "image": "https://raw.githubusercontent.com/bielorusov/raw-cdn/refs/heads/main/coins/AN.png",
-  "description": "",
+  "description": "Interested coin",
   "extensions": {
-    "website": "https://an.assistshub.com",
+    "website": "https://unity.assistshub.com",
     "twitter": "",
-    "telegram": ""
+    "telegram": "https://t.me/support"
   },
   "tags": [],
   "creator": {
